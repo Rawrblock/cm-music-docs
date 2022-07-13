@@ -1,0 +1,15 @@
+{
+  "name": "cm-music-docs",
+  "version": "1.0.0",
+  "description": "a doc for cm music",
+  "main": "index.js",
+  "repository": "git@github.com:Rawrblock/cm-music-docs.git",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
