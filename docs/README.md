@@ -4,7 +4,7 @@ title: 首页
 heroImage: /images/logo.png
 actions:
 - text: 开始
-  link: /frontend/
+  link: /overview/
   type: primary
 features:
 - title: SpringBoot
