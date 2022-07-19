@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,a as e,b as c}from"./app.d1094731.js";const n={},o=e("h1",{id:"app-flutter",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#app-flutter","aria-hidden":"true"},"#"),c(" APP\uFF08Flutter\uFF09")],-1),s=[o];function _(d,i){return a(),r("div",null,s)}var f=t(n,[["render",_],["__file","index.html.vue"]]);export{f as default};

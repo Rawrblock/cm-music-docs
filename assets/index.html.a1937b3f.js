@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-74d77af9","path":"/admin/","title":"\u524D\u7AEF\u9875\u9762","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"\u524D\u7AEF\u9875\u9762"},"excerpt":"","headers":[],"git":{"updatedTime":1658214129000,"contributors":[{"name":"rawrblock","email":"799389926@qq.com","commits":1}]},"filePathRelative":"admin/README.md"}');export{t as data};
